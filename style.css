@@ -1,0 +1,14 @@
+h1 {color:darkred;
+    font-family: "Helvetica", sans-serif;
+    margin-left: 35%;
+}
+p {font-family: "Arial", sans-serif}
+li {font-family: "Arial Narrow", sans-serif}
+img {border-style: double;
+    border-color: blue;
+    border-width: 10px;
+    margin-left: 25%;
+}
+.new {font-family: "Arial Narrow", sans-serif;
+        font-size: large;
+}
