@@ -12,3 +12,7 @@ img {border-style: double;
 .new {font-family: "Arial Narrow", sans-serif;
         font-size: large;
 }
+
+img {
+    border-radius: 50%;
+}
